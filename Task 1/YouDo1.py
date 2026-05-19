@@ -1,5 +1,3 @@
+name = input("What is yopur favourite color: ")
 
-name = input("what is your favourite color ")
-
-
-print("Your favorite color is [" + name + "]")
+print("My Fav  color is  : "+ name)
