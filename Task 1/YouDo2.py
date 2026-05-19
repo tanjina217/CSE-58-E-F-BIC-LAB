@@ -1,9 +1,7 @@
-age = 12
+movie = "Avatar"
 
-height = 5.5
+year = 2015
 
-name = "Asif"
-
-print_string = f"the name is {name} and the age is {age}"
+print_string = f"the  movie name is {movie} and the year is {year}"
 
 print(print_string)
