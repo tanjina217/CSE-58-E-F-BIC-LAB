@@ -1,10 +1,8 @@
-age = 12
+age = 15
 
-height= 5.5
+height = 5.8
 
-
-name = "Asif"
-
+name = "Avatar"
 
 print_string = f"the name is {name} and the age is {age}"
 
